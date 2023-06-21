@@ -18,3 +18,6 @@ print("refere")
 
 # Version 7
 print("github")
+
+# Version 7
+print("local den selamlar")
