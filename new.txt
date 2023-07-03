@@ -1,3 +1,0 @@
-selam
-MS
-Değişiklik yapıldı ama .gitignore takıldı devam edemiyom
